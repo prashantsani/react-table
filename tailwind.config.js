@@ -232,12 +232,12 @@ module.exports = {
       mono: ['monospace'],
     },
     fontSize: {
-      xs: '0.75rem',
-      sm: '0.875rem',
-      base: '0.875rem', // 14px
-      lg: '1.25rem',  // 20px
-      xl: '1.625rem', // 26px 
-      '2xl': '1.875rem', // 30px
+      // xs: '0.75rem',
+      // sm: '0.875rem',
+      base: '1rem', // 14px
+      lg: '1.375rem',  // 22px
+      // xl: '1.625rem', // 26px 
+      // '2xl': '1.875rem', // 30px
       // '3xl': '1.875rem',
       // '4xl': '2.25rem',
       // '5xl': '3rem',

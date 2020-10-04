@@ -1,5 +1,6 @@
 import React from "react"
+import Table from '../components/Table/Table'
 
 export default function Home() {
-  return <div>Hello world!</div>
+  return <Table heading={'All Transations'} />
 }

@@ -6,3 +6,27 @@
 	margin: 0;
 	padding: 0;
 }
+
+.succeeded,
+.failed,
+.disputed,
+.canceled{
+	padding: 5px 10px;
+	border-radius: 10px;
+}
+
+.succeeded{
+	background-color: #ECECFF;
+}
+
+.failed{
+	background-color: #FFE0B1
+}
+
+.disputed{
+	background-color: #FFE0B1
+}
+
+.canceled{
+	background-color: #E2E2E2
+}
