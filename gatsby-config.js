@@ -12,7 +12,7 @@ module.exports = {
     siteUrl: `https://prashantsani.github.io/react-table/`,
     socialImage: ``
   },
-  // pathPrefix: "",
+  pathPrefix: "/react-table/",
   // assetPrefix: "",
   plugins: [
     `gatsby-plugin-postcss`,
